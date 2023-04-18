@@ -3,6 +3,8 @@
 In dit project heb ik in C# een spel gemaakt was gebaseerd is op Tamagotchi.
 Dit heb ik gemaakt in Visual Studio 2022
 
+In het spel moet je eten en water geven om het te overleven, hoe langer je het overleeft hoe hoger je score word.
+
 
 
 # Foto
